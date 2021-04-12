@@ -1,7 +1,7 @@
 # ExcellenceTechnologies
 
 ```
-1 .  On Terminal run "npm init -y"
+1 .  Inside src folder in Terminal run "npm init -y"
 2.  Install all the dependcies/module written below using the command : npm install module_name , Ex : npm install express
 
                     "express"
