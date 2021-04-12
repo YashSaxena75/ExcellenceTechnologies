@@ -21,7 +21,15 @@ const list = new mongoose.Schema({
 
 // Creating Model for test_score
 const lists = new mongoose.Schema({
-    email: {type:String,required:true,unique:true},
+    email: {type:String,required:true,unique:true,
+        validator(value)
+        {
+            if(!validator.isEmail(value))
+            {   
+                console.log("Invalid Email");
+            }
+        }
+    },
     firstround: {type:Number, required:true , min:1,max:10},
     secondround: {type:Number, required:true,min:1,max:10},
     thirdround: {type:Number, required:true,min:1,max:10}
