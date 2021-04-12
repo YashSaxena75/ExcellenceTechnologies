@@ -14,6 +14,7 @@
 4 . use /fround to check average and highest score for first round
 5.  use /sround to check avergae and highest score for the second round
 6 . use /tround to check avergae and highest score for the third round
+7 . just run the app.js script present in **src** folder
 
 NOTE  : Do not change name of any folder or file , Ensure all the folders or files have correct permissions , Ensure Port 8080 is open
 ```
