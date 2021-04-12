@@ -9,12 +9,11 @@
                     "mongoose"
                     "validator"
                     "alert"
-                    
-3.  use /add to a new Candidate Details
-4 . use /fround to check average and highest score for first round
-5.  use /sround to check avergae and highest score for the second round
-6 . use /tround to check avergae and highest score for the third round
-7 . run the app.js script present in **src** folder , node app.js
+3.  run the app.js script present in **src** folder , node app.js                
+4.  use /add to a new Candidate Details
+5 . use /fround to check average and highest score for first round
+6.  use /sround to check avergae and highest score for the second round
+7 . use /tround to check avergae and highest score for the third round
 
 NOTE  : Do not change name of any folder or file , Ensure all the folders or files have correct permissions , Ensure Port 8080 is open
 ```
