@@ -1,8 +1,10 @@
 # ExcellenceTechnologies
 
 ```
-1 .  Inside src folder in Terminal run "npm init -y"
-2.  Install all the dependcies/module written below using the command : npm install module_name , Ex : npm install express
+Perform Step 1 and 2 inside src folder
+
+1 .  In terminal run "npm init -y"
+2.  Install all the dependcies/module written below  using the command : npm install module_name , Ex : npm install express
 
                     "express"
                     "hbs"
